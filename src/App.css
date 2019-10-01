@@ -391,6 +391,10 @@ table th {
   margin-right: 0.6rem;
 }
 
+.repo-link {
+  display: inline-block;
+}
+
 /* Mobile Styles */
 @media (max-width: 700px) {
   .hide-sm {
